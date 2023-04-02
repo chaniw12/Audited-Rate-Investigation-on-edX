@@ -7,4 +7,4 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/edx/course-
 
 
 ## Modelling
-Select Generalized Linear Model for Gamma Distribution with Log link function. Check residual plots for goodness-of-fit
+Select Generalized Linear Model for Gamma Distribution with Log link function. Check residual plots for goodness-of-fit.
